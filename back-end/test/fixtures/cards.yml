@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  suit: MyString
+  power: 1
+  player: one
+
+two:
+  suit: MyString
+  power: 1
+  player: two
